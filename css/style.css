@@ -1,0 +1,7 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+a.pagination-link.active {
+    background: #17a2b8;
+    color: #fff;
+}
